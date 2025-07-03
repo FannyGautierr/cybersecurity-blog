@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import rehypeMermaid from 'rehype-mermaid';
 
 import tailwindcss from '@tailwindcss/vite';
 
@@ -12,5 +13,11 @@ export default defineConfig({
 
   vite: {
     plugins: [tailwindcss()],
+  },
+  markdown: {
+    syntaxHighlight: {
+      type: 'shiki',
+    },
+    rehypePlugins: [rehypeMermaid],
   },
 });
