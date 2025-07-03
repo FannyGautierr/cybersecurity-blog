@@ -2,7 +2,7 @@
 title: 'Javascript - Source'
 description: "Analyse du code source JavaScript pour découvrir des informations d'authentification"
 pubDate: 'Jul 1 2025'
-heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-piratage-hackeurs.jpeg'
+heroImage: '/src/assets/root_me/rootme3-0.png'
 ---
 
 ## 3. Javascript - Source
@@ -11,7 +11,7 @@ heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-p
 **Méthode :** Analyse code source du site -> web-client/ch1  
 **Outils utilisés :** Inspecteur Chrome / Fichier sources  
 **Temps :** 2 minutes  
-**Flag :** `123456azerty`
+
 
 ### Solution
 

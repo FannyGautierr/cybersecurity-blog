@@ -2,7 +2,7 @@
 title: 'XSS - Volatile'
 description: "Exploitation d'une XSS réfléchie avancée avec événement mouseover"
 pubDate: 'Jul 1 2025'
-heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-piratage-hackeurs.jpeg'
+heroImage: '/src/assets/root_me/rootme14-0.png'
 ---
 
 ## 13. XSS - Volatile
@@ -11,13 +11,13 @@ heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-p
 **Méthode :** XSS réfléchie via événement mouseover et exfiltration par webhook  
 **Outils utilisés :** Webhook.site / injection de code / événements HTML  
 **Temps :** 1h30  
-**Flag :** `r3fL3ct3D_XsS_fTw`
+
 
 ### Solution
 
 Exploitation d'une XSS réfléchie complexe sur un administrateur prudent qui ne clique pas sur les liens suspects.
 
-![Challenge XSS Volatile](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2010.18.40.png)
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-0.png)
 
 **Étapes :**
 1. Identifier le point de contact avec l'admin : signalement de pages inexistantes
@@ -31,8 +31,12 @@ Exploitation d'une XSS réfléchie complexe sur un administrateur prudent qui ne
 6. Le simple survol déclenche l'exfiltration du cookie
 7. Récupérer le cookie admin sur le webhook
 
-![Analyse du comportement administrateur](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2010.20.11.png)
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-1.png)
 
-![Configuration avancée du webhook](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2011.05.41.png)
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-2.png)
 
-![Payload XSS avec mouseover](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2011.06.18.png)
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-3.png)
+
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-4.png)
+
+![Challenge XSS Volatile](/src/assets/root_me/rootme14-5.png)

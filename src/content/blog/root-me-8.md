@@ -2,7 +2,7 @@
 title: 'Javascript - Webpack'
 description: 'Décompilation de bundles Webpack pour extraire des flags cachés'
 pubDate: 'Jul 1 2025'
-heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-piratage-hackeurs.jpeg'
+heroImage: '/src/assets/root_me/rootme8-0.png'
 ---
 
 ## 8. Javascript - Webpack
@@ -11,13 +11,13 @@ heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-p
 **Méthode :** Code source -> recherche Google -> décompilation avec outil en ligne  
 **Outils utilisés :** Code sources / Devtools / Google Search  
 **Temps :** 15 minutes  
-**Flag :** `BecauseSourceMapsAreGreatForDebuggingButNotForProduction`
+
 
 ### Solution
 
 Ce challenge implique l'analyse d'un bundle Webpack pour extraire le flag.
 
-![Challenge JavaScript Webpack](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.55.39.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-0.png)
 
 **Étapes :**
 1. Analyser le code source pour identifier le bundle Webpack
@@ -26,8 +26,11 @@ Ce challenge implique l'analyse d'un bundle Webpack pour extraire le flag.
 4. Rechercher "flag" dans le code décompilé (Cmd+F)
 5. Localiser le flag dans le code déobfusqué
 
-![Code Webpack obfusqué](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.56.02.png)
+NB : Méthode non conventionelle ... 😅
 
-![Décompilation et recherche du flag](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.56.09.png)
-
-![Flag trouvé dans le code décompilé](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.57.54.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-1.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-2.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-3.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-4.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-5.png)
+![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-6.png)

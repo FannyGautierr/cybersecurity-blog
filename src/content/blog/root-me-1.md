@@ -2,7 +2,7 @@
 title: 'HTML - Boutons Désactivés'
 description: 'Bypass de sécurité côté client : activer un bouton désactivé pour accéder à une fonction cachée'
 pubDate: 'Jul 1 2025'
-heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-piratage-hackeurs.jpeg'
+heroImage: '/src/assets/root_me/rootme1.png'
 ---
 
 ## 1. HTML - Boutons Désactivés
@@ -11,7 +11,7 @@ heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-p
 **Méthode :** Modification DOM - Suppression attribut disabled  
 **Outils utilisés :** Inspecteur Chrome  
 **Temps :** 2 minutes  
-**Flag :** `HTMLCantStopYou`
+
 
 ### Solution
 

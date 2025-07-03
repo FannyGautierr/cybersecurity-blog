@@ -2,7 +2,7 @@
 title: 'Javascript - Authentification'
 description: "Contournement d'authentification JavaScript : analyse du code source pour bypasser la sécurité"
 pubDate: 'Jul 1 2025'
-heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-piratage-hackeurs.jpeg'
+heroImage: '/src/assets/root_me/rootme2-0.png'
 ---
 
 ## 2. Javascript - Authentification
@@ -11,13 +11,13 @@ heroImage: 'https://static.actu.fr/uploads/2024/03/france-travail-cyberattaque-p
 **Méthode :** Analyse code source du site -> login.js  
 **Outils utilisés :** Inspecteur Chrome / Fichier sources  
 **Temps :** 2 minutes  
-**Flag :** `sh.org`
+
 
 ### Solution
 
 L'authentification est implémentée côté client, permettant de découvrir les identifiants en analysant le code JavaScript.
 
-![Challenge JavaScript Authentification](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.24.06.png)
+![Challenge JavaScript Authentification](/src/assets/root_me/rootme2-0.png)
 
 **Étapes :**
 1. Ouvrir les DevTools Chrome
@@ -26,6 +26,6 @@ L'authentification est implémentée côté client, permettant de découvrir les
 4. Analyser la logique d'authentification pour trouver les identifiants hardcodés
 5. Utiliser ces identifiants pour se connecter
 
-![Analyse du code source JavaScript](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.24.20.png)
+![Analyse du code source JavaScript](/src/assets/root_me/rootme2-2.png)
 
-![Solution JavaScript Authentification](/src/assets/root_me/Capture%20d'écran%202025-07-01%20à%2009.24.30.png)
+![Solution JavaScript Authentification](/src/assets/root_me/rootme2-3.png)
