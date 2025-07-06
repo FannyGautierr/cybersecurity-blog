@@ -16,7 +16,7 @@ heroImage: '/src/assets/root_me/rootme9-0.png'
 
 Déobfuscation d'un code JavaScript avec technique de logging et conversion de caractères.
 
-![Challenge JavaScript Obfuscation 3](/src/assets/root_me/rootme9-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme9-0.png"/></div>
 
 **Étapes :**
 1. Ouvrir la console et aller dans Sources
@@ -25,7 +25,7 @@ Déobfuscation d'un code JavaScript avec technique de logging et conversion de c
 4. Utiliser `String.fromCharCode()` avec le résultat précédent
 5. Obtenir le flag déobfusqué
 
-![Challenge JavaScript Obfuscation 3](/src/assets/root_me/rootme9-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme9-1.png"/></div>
 
-![Challenge JavaScript Obfuscation 3](/src/assets/root_me/rootme9-2.png)
-![Challenge JavaScript Obfuscation 3](/src/assets/root_me/rootme9-3.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme9-2.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme9-3.png"/></div>

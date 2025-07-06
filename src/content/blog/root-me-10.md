@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme11-0.png'
 
 Analyse et déobfuscation d'un Abstract Syntax Tree pour récupérer une fonction génératrice.
 
-![Challenge AST Deobfuscation](/src/assets/root_me/rootme11-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme11-0.png"/></div>
 
 **Étapes :**
 1. Analyser la structure AST
@@ -26,6 +26,6 @@ Analyse et déobfuscation d'un Abstract Syntax Tree pour récupérer une fonctio
 4. Exécuter `gen_sensor()` dans la console
 5. Obtenir le flag généré par la fonction
 
-![Challenge AST Deobfuscation](/src/assets/root_me/rootme11-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme11-1.png"/></div>
 
-![Challenge AST Deobfuscation](/src/assets/root_me/rootme11-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme11-2.png"/></div>

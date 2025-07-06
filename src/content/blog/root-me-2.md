@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme2-0.png'
 
 L'authentification est implémentée côté client, permettant de découvrir les identifiants en analysant le code JavaScript.
 
-![Challenge JavaScript Authentification](/src/assets/root_me/rootme2-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme2-0.png"/></div>
 
 **Étapes :**
 1. Ouvrir les DevTools Chrome
@@ -26,6 +26,6 @@ L'authentification est implémentée côté client, permettant de découvrir les
 4. Analyser la logique d'authentification pour trouver les identifiants hardcodés
 5. Utiliser ces identifiants pour se connecter
 
-![Analyse du code source JavaScript](/src/assets/root_me/rootme2-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme2-2.png"/></div>
 
-![Solution JavaScript Authentification](/src/assets/root_me/rootme2-3.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme2-3.png"/></div>

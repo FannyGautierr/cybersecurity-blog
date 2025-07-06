@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme5-0.png'
 
 Le code JavaScript est obfusqué mais peut être déobfusqué manuellement pour révéler le mot de passe.
 
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme5-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme5-0.png"/></div>
 
 **Étapes :**
 1. Examiner le code source de la page
@@ -25,5 +25,5 @@ Le code JavaScript est obfusqué mais peut être déobfusqué manuellement pour 
 3. Déobfusquer le code (décryptage de chaînes, décodage) en utlisant unescape()
 4. Extraire le mot de passe en clair
 
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme5-1.png)
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme5-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme5-1.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme5-2.png"/></div>

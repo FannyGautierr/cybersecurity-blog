@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme13-0.png'
 
 Exploitation d'une vulnérabilité CSRF pour activer un compte automatiquement.
 
-![Challenge CSRF](/src/assets/root_me/rootme13-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme13-0.png"/></div>
 
 **Étapes :**
 1. Analyser la requête légitime de modification de profil
@@ -35,5 +35,5 @@ Exploitation d'une vulnérabilité CSRF pour activer un compte automatiquement.
 5. Le compte est activé via la requête CSRF
 
 
-![Challenge CSRF](/src/assets/root_me/rootme13-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme13-2.png"/></div>
 

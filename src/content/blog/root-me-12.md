@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme14-0.png'
 
 Exploitation d'une XSS réfléchie complexe sur un administrateur prudent qui ne clique pas sur les liens suspects.
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-0.png"/></div>
 
 **Étapes :**
 1. Identifier le point de contact avec l'admin : signalement de pages inexistantes
@@ -31,12 +31,12 @@ Exploitation d'une XSS réfléchie complexe sur un administrateur prudent qui ne
 6. Le simple survol déclenche l'exfiltration du cookie
 7. Récupérer le cookie admin sur le webhook
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-1.png"/></div>
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-2.png"/></div>
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-3.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-3.png"/></div>
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-4.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-4.png"/></div>
 
-![Challenge XSS Volatile](/src/assets/root_me/rootme14-5.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme14-5.png"/></div>

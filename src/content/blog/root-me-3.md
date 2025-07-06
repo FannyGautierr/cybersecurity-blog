@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme3-0.png'
 
 Similar au précédent, ce challenge nécessite d'analyser le code source JavaScript pour découvrir des informations d'authentification.
 
-![Challenge JavaScript Source](/src/assets/root_me/rootme3-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme3-0.png"/></div>
 
 **Étapes :**
 1. Accéder aux sources via les DevTools

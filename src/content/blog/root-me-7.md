@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme7-0.png'
 
 Le mot de passe est caché dans une fonction JavaScript native qu'il faut analyser.
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme7-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme7-0.png"/></div>
 
 **Étapes :**
 1. Examiner le code source
@@ -25,6 +25,6 @@ Le mot de passe est caché dans une fonction JavaScript native qu'il faut analys
 3. Utiliser `.toString()` dans la console pour afficher le contenu de la fonction
 4. Analyser la fonction décompilée pour extraire le mot de passe
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme7-2.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme7-3.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme7-4.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme7-2.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme7-3.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme7-4.png"/></div>

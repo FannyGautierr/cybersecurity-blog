@@ -16,7 +16,7 @@ heroImage: '/src/assets/root_me/rootme6-0.png'
 
 Le mot de passe est obfusqué avec plusieurs couches d'encodage nécessitant l'utilisation de la console JavaScript.
 
-![Challenge JavaScript Obfuscation 2](/src/assets/root_me/rootme6-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme6-0.png"/></div>
 
 **Étapes :**
 1. Analyser le code source pour identifier les chaînes obfusquées
@@ -25,5 +25,5 @@ Le mot de passe est obfusqué avec plusieurs couches d'encodage nécessitant l'u
 4. Appliquer `String.fromCharCode()` pour le décodage final
 5. Obtenir le mot de passe déobfusqué
 
-![Challenge JavaScript Obfuscation 2](/src/assets/root_me/rootme6-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme6-1.png"/></div>
 

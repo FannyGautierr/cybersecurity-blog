@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme8-0.png'
 
 Ce challenge implique l'analyse d'un bundle Webpack pour extraire le flag.
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-0.png"/></div>
 
 **Étapes :**
 1. Analyser le code source pour identifier le bundle Webpack
@@ -28,9 +28,9 @@ Ce challenge implique l'analyse d'un bundle Webpack pour extraire le flag.
 
 NB : Méthode non conventionelle ... 😅
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-1.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-2.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-3.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-4.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-5.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme8-6.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-1.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-2.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-3.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-4.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-5.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme8-6.png"/></div>

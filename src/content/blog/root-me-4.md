@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme4-0.png'
 
 Une autre variante d'authentification côté client vulnérable.
 
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme4-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme4-0.png"/></div>
 
 **Étapes :**
 1. Analyser le fichier `login.js` dans les sources
@@ -25,6 +25,6 @@ Une autre variante d'authentification côté client vulnérable.
 3. Découvrir les credentials cachés dans le code
 4. Utiliser ces informations pour contourner l'authentification
 
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme4-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme4-1.png"/></div>
 
-![Challenge JavaScript Authentification 2](/src/assets/root_me/rootme4-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme4-2.png"/></div>

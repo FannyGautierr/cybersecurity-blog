@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme10-0.png'
 
 Exploitation d'une vulnérabilité XSS stockée pour voler les cookies d'un administrateur.
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-0.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-0.png"/></div>
 
 **Étapes :**
 1. Tester l'injection de code avec `alert('XSS')` dans le champ description
@@ -31,10 +31,10 @@ Exploitation d'une vulnérabilité XSS stockée pour voler les cookies d'un admi
 6. Récupérer le cookie sur le webhook
 7. Utiliser le cookie pour s'authentifier comme administrateur
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-1.png"/></div>
 
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-2.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-3.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-5.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-6.png)
-![Challenge JavaScript Native Code](/src/assets/root_me/rootme10-4.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-2.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-3.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-5.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-6.png"/></div>
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme10-4.png"/></div>

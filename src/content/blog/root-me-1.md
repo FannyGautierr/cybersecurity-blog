@@ -17,7 +17,7 @@ heroImage: '/src/assets/root_me/rootme1.png'
 
 Ce challenge consiste à bypasser une restriction côté client en modifiant le DOM. Un bouton est désactivé via l'attribut HTML `disabled`, empêchant l'utilisateur de cliquer dessus normalement.
 
-![Challenge Root-Me HTML Boutons Désactivés](/src/assets/root_me/rootme1.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/rootme1.png"/></div>
 
 **Étapes :**
 1. Ouvrir l'inspecteur Chrome (F12)
@@ -25,6 +25,6 @@ Ce challenge consiste à bypasser une restriction côté client en modifiant le 
 3. Supprimer l'attribut `disabled` en modifiant le HTML
 4. Le bouton devient alors cliquable et révèle la fonction cachée
 
-![Solution HTML Boutons Désactivés](/src/assets/root_me/root-me1-2.png)
+<div class="flex items-center justify-center m-auto  mb-4 object-cover"><img src="/images/root_me/root-me1-2.png"/></div>
 
 Cette technique illustre pourquoi la sécurité ne doit jamais reposer uniquement sur des contrôles côté client.
